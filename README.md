@@ -1,5 +1,5 @@
 # Hi, I'm Anish Kumar
-A Web-Developer || Passionate Programmer
+A Web-Developer || Passionate Programmer<br>
 E-mail Me: kumaranish7119@gamil.com for contacting me for collabration/Projects & others
 
 ## 🌐 Socials:
